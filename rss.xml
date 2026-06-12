@@ -6,7 +6,7 @@
     <description>Daily news podcast covering AI, finance, tech, space and more.</description>
     <language>zh-cn</language>
     <itunes:author>Daily News Podcast</itunes:author>
-    <itunes:owner><itunes:name>Daily News Podcast</itunes:name><itunes:email>dailynews@podcast.local</itunes:email></itunes:owner>
+    <itunes:owner><itunes:name>Daily News Podcast</itunes:name><itunes:email>chenruipeng0707@gmail.com</itunes:email></itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://x-rayon.github.io/dailynews-podcast/rss.xml" rel="self" type="application/rss+xml"/>
