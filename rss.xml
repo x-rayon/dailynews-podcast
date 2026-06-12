@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily News</title>
+    <link>https://x-rayon.github.io/dailynews-podcast</link>
+    <description>Daily news podcast covering AI, finance, tech, space and more.</description>
+    <language>zh-cn</language>
+    <itunes:author>Daily News Podcast</itunes:author>
+    <itunes:owner><itunes:name>Daily News Podcast</itunes:name><itunes:email>dailynews@podcast.local</itunes:email></itunes:owner>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://x-rayon.github.io/dailynews-podcast/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Daily News 2026-06-13</title>
+      <description>Daily news podcast for 2026-06-13</description>
+      <enclosure url="https://github.com/x-rayon/dailynews-podcast/releases/download/v2026-06-13/dailynews_final_20260613_003531.mp3" length="2831299" type="audio/mpeg"/>
+      <guid isPermaLink="false">dailynews-2026-06-13-d952975c</guid>
+      <pubDate>Sat, 13 Jun 2026 00:51:57 +0800</pubDate>
+      <itunes:duration>176</itunes:duration>
+    </item>
+  </channel>
+</rss>
