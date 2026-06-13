@@ -9,6 +9,7 @@
     <itunes:owner><itunes:name>Daily News Podcast</itunes:name><itunes:email>chenruipeng0707@gmail.com</itunes:email></itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://x-rayon.github.io/dailynews-podcast/cover.jpg"/>
     <atom:link href="https://x-rayon.github.io/dailynews-podcast/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Daily News 2026-06-13</title>
