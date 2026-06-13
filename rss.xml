@@ -9,15 +9,14 @@
     <itunes:owner><itunes:name>Daily News Podcast</itunes:name><itunes:email>chenruipeng0707@gmail.com</itunes:email></itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://x-rayon.github.io/dailynews-podcast/cover.jpg"/>
     <atom:link href="https://x-rayon.github.io/dailynews-podcast/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Daily News 2026-06-13</title>
       <description>Daily news podcast for 2026-06-13</description>
-      <enclosure url="https://github.com/x-rayon/dailynews-podcast/releases/download/v2026-06-13/dailynews_final_20260613_221229.mp3" length="2831299" type="audio/mpeg"/>
-      <guid isPermaLink="false">dailynews-2026-06-13-ec78e5e8</guid>
-      <pubDate>Sat, 13 Jun 2026 22:12:43 +0800</pubDate>
-      <itunes:duration>176</itunes:duration>
+      <enclosure url="https://github.com/x-rayon/dailynews-podcast/releases/download/v2026-06-13/dailynews_final_20260613_234819.mp3" length="2913219" type="audio/mpeg"/>
+      <guid isPermaLink="false">dailynews-2026-06-13-a3638dda</guid>
+      <pubDate>Sat, 13 Jun 2026 23:50:20 +0800</pubDate>
+      <itunes:duration>182</itunes:duration>
     </item>
   </channel>
 </rss>
